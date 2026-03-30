@@ -21,5 +21,10 @@ Key Learnings:
 - Professional communication
 - Ethical usage of platforms
 
+Important Links:
+- https://github.com/daksh25BAI10927/Vityarthi_Digital_Literacy
+- https://docs.google.com/forms/d/e/1FAIpQLScsxhNZuyyiwMJjvd-Sljl0dUKIoXin-eznoda27V_t3kV8tA/viewform
+  
+
 Conclusion:
 Digital literacy is about responsible and effective use of technology.
